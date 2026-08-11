@@ -47,17 +47,33 @@ Python and Pandas were then used for further data transformation, analysis and v
 
 ## 📈 Power BI Dashboard
 
-Power BI was used to create interactive dashboards presenting the results of the analysis.
+Power BI was used to create interactive dashboards to visualize key logistics performance indicators and explore operational patterns.
 
-The dashboard includes views covering:
+### Driver Performance
 
-- Driver metrics
-- Seasonal performance
-- Route distance and revenue
-- On-time delivery performance
-- Extra kilometers
-- Traffic accidents
-- Fleet servicing and maintenance
+Analysis of driver-related performance metrics and operational results.
+
+![Driver Metrics](images/driver-metrics.png)
+
+### Revenue & Route Distance
+
+Analysis of the relationship between route distance and revenue performance.
+
+![Revenue and Distance](images/rate-distance.png)
+
+### On-Time Delivery Performance
+
+Analysis of delivery performance across different route distances.
+
+![On-Time Delivery](images/ontime-distance.png)
+
+### Extra Distance Analysis
+
+Analysis of additional distance driven compared with the originally planned route distance.
+
+![Extra KM](images/extra-km.png)
+
+The complete interactive Power BI report is available below:
 
 ➡️ [Download Power BI dashboard](powerbi/logistics-dashboard.pbix)
 
