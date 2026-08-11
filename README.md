@@ -8,6 +8,14 @@ The project was completed as part of my Data Analytics studies at Vilnius Coding
 
 My previous professional background in transport and logistics helped me approach the dataset from a business perspective and focus on metrics relevant to real-world logistics operations.
 
+## 📁 Data Source
+
+The dataset used in this project was obtained from **Kaggle** and contains simulated logistics company data covering drivers, routes, orders, revenue, delivery performance, vehicle maintenance and other operational metrics.
+
+The data was used for educational and portfolio purposes only.
+
+➡️ [View dataset on Kaggle](https://www.kaggle.com/datasets/yogape/logistics-operations-database)
+
 ## 🛠️ Tools & Technologies
 
 - **SQL (MySQL)** – data extraction, joins, aggregations, CTEs, window functions and data preparation
