@@ -79,9 +79,15 @@ The complete interactive Power BI report is available below:
 
 ## 💡 Key Findings
 
-The analysis explored relationships between route distance, revenue, delivery performance and operational efficiency.
+- **Short-distance routes showed an unexpected concentration of delays.** Despite representing a relatively small share of total orders, shorter routes generated a disproportionately high number of delayed deliveries. This suggests that factors other than distance may be influencing delivery performance and would be worth investigating further.
 
-Key observations from the project will be summarized here together with dashboard visualizations.
+- **Overall on-time delivery performance indicates room for improvement.** Approximately 44.7% of deliveries were completed on time, while 55.3% were delayed.
+
+- **Extra distance increases strongly with route distance.** Longer routes generally generated more additional kilometers compared with the originally planned distance. Certain routes stood out in particular, with Miami → Seattle generating approximately 143 additional kilometers per trip on average.
+
+- **Revenue per kilometer varies across distance groups.** The 300–500 km group achieved the highest average rate at approximately €4.23/km, while the 500–1,200 km groups showed the lowest average rates at approximately €3.31/km. This suggests that route distance alone does not determine revenue efficiency.
+
+- **Driver performance differences are more pronounced in delivery reliability than in revenue efficiency.** Among the analyzed drivers, on-time rates ranged from approximately 36.5% to 49.0%, while revenue per kilometer among the top and bottom performers remained relatively close, suggesting that operational performance varies more between drivers than revenue efficiency.
 
 ## 📁 Repository Structure
 
